@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khushi Munna Kumar Agarwal</h1>
+<h1 align="center">Hi, I'm Khushi Munna Kumar Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://khushi-agarwal1401.github.io/Personal-Portfolio/](https://khushi-agarwal1401.github.io/Personal-Portfolio/)
