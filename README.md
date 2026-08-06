@@ -25,9 +25,11 @@ I'm passionate about building modern web applications, solving challenging probl
 
 # Currently
 
-- 🔭 Working on **AI Resume Builder & Analyzer**
-- 🌱 Learning **Next.js** and **Node.js & APIs**
-- 👯 Looking to collaborate on open-source projects
+<!-- START_SECTION:currently -->
+- 🔭 Working on **AI Resume Builder and Analyzer**
+- 🌱 Learning **TypeScript**, **JavaScript**, **HTML**
+- 👯 Looking to collaborate on **AI Resume Builder and Analyzer**, **TrustFlow**
+<!-- END_SECTION:currently -->
 
 ---
 
@@ -35,60 +37,46 @@ I'm passionate about building modern web applications, solving challenging probl
 
 Here are some of the projects I've built, with live stats. Feel free to explore, star, or contribute!
 
+<!-- START_SECTION:projects -->
 <div align="center">
 
 <table>
-  <tr>
+    <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder &amp; Analyzer</b></a><br>
-      AI resume builder with GitHub auto-import<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/>
-      <img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/>
-      <img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/AI-Money-Mentor"><b>AI Money Mentor</b></a><br>
-      AI-powered personal finance assistant for smarter money decisions<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Money-Mentor?style=flat-square&label=Stars&color=E75480"/>
-      <img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Money-Mentor?style=flat-square&label=Forks&color=BF91FF"/>
-      <img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Money-Mentor?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/TrustFlow"><b>TrustFlow</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Language&color=F8D847"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/TrustFlow"><b>TrustFlow AI</b></a><br>
-      AI platform for trust, identity &amp; verification<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Stars&color=E75480"/>
-      <img src="https://img.shields.io/github/forks/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Forks&color=BF91FF"/>
-      <img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Language&color=F8D847"/>
-    </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Expense-Tracker"><b>Expense Tracker</b></a><br>
-      Expense manager with CRUD, localStorage persistence, search, filtering and sorting<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Stars&color=E75480"/>
-      <img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Forks&color=BF91FF"/>
-      <img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Language&color=F8D847"/>
+      Expense Tracker application with income and expense management, complete CRUD…<br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Language&color=F8D847"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Personal-Portfolio"><b>Personal Portfolio</b></a><br>
-      My personal portfolio — projects, skills &amp; journey<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/>
-      <img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Forks&color=BF91FF"/>
-      <img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Grocery_App"><b>Grocery App</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Language&color=F8D847"/>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Student-Registration"><b>Student Registration</b></a><br>
-      Student registration management app<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Student-Registration?style=flat-square&label=Stars&color=E75480"/>
-      <img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Student-Registration?style=flat-square&label=Forks&color=BF91FF"/>
-      <img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Student-Registration?style=flat-square&label=Language&color=F8D847"/>
+      Student Registration<br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Student-Registration?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Student-Registration?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Student-Registration?style=flat-square&label=Language&color=F8D847"/>
     </td>
-  </tr>
+    <td align="center">
+      <a href="https://github.com/Khushi-agarwal1401/Organo"><b>Organo</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Organo?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Organo?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Organo?style=flat-square&label=Language&color=F8D847"/>
+    </td>
+    </tr>
 </table>
 
 </div>
+<!-- END_SECTION:projects -->
 
 ---
 

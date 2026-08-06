@@ -1,0 +1,36 @@
+name: Update README · Currently section
+
+on:
+  schedule:
+    # Every Monday at 08:00 UTC — set to weekly as requested.
+    # Add more lines like '- cron: "0 8 * * 3"' (Wednesdays) for extra runs.
+    - cron: '0 8 * * 1'
+  workflow_dispatch: # Allows a manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write # Required so the bot can commit the updated README
+
+jobs:
+  update-currently:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub data and update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "✅ README is already up to date — no changes."
+          else
+            git commit -m "docs: auto-update Currently section"
+            git pull --rebase --autostash # Stay in sync in case the repo was updated elsewhere
+            git push
+          fi
