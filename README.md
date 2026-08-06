@@ -89,6 +89,18 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 ---
 
+# Most Starred Repos
+
+<!-- START_SECTION:stars -->
+1. ⭐ **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1 ⭐ · HTML
+2. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
+3. ⭐ **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** · TypeScript
+4. ⭐ **[Expense Tracker](https://github.com/Khushi-agarwal1401/Expense-Tracker)** · JavaScript
+5. ⭐ **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** · HTML
+<!-- END_SECTION:stars -->
+
+---
+
 # Tech Stack
 
 <!-- START_SECTION:techstack -->

@@ -51,12 +51,15 @@ START_TECHSTACK = "<!-- START_SECTION:techstack -->"
 END_TECHSTACK = "<!-- END_SECTION:techstack -->"
 START_ACTIVITY = "<!-- START_SECTION:activity -->"
 END_ACTIVITY = "<!-- END_SECTION:activity -->"
+START_STARS = "<!-- START_SECTION:stars -->"
+END_STARS = "<!-- END_SECTION:stars -->"
 
 PROJECT_COUNT = 6  # projects shown in the Featured Projects table
 CURRENTLY_REPO_COUNT = 5
 MAX_LANGS = 3
 TECHSTACK_REPO_LIMIT = 30  # repos scanned for language detection
 ACTIVITY_COUNT = 6  # recent-activity items to show
+STAR_COUNT = 5  # repos shown in Most Starred Repos
 
 BADGE_STYLE = "style=flat-square"
 
@@ -279,6 +282,31 @@ def build_activity_section(events: list[dict]) -> str:
     return "\n".join(items)
 
 
+# -------------------------------------------------------- Most starred --
+
+
+def build_stars_section(repos: list[dict]) -> str:
+    """Top STAR_COUNT repos by star count (recency breaks ties)."""
+    # repos arrive sorted by most recent push; stable sort keeps that as tie-break
+    ranked = sorted(
+        repos, key=lambda r: r.get("stargazers_count") or 0, reverse=True
+    )[:STAR_COUNT]
+
+    lines = []
+    for rank, repo in enumerate(ranked, start=1):
+        name = pretty_name(repo)
+        url = f"https://github.com/{OWNER}/{repo.get('name')}"
+        stars = repo.get("stargazers_count") or 0
+        lang = (repo.get("language") or "").strip()
+        stars_txt = f" — {stars} ⭐" if stars else ""
+        suffix = f" · {lang}" if lang else ""
+        lines.append(f"{rank}. ⭐ **[{name}]({url})**{stars_txt}{suffix}")
+
+    if not lines:
+        return "- No repos yet — star something soon!"
+    return "\n".join(lines)
+
+
 # ------------------------------------------------------------ Tech stack --
 
 # Curated base skills (things you know that may not show up in public repos)
@@ -441,6 +469,7 @@ def main() -> None:
     currently = build_currently_section(repos[:CURRENTLY_REPO_COUNT])
     projects = build_projects_section(OWNER, repos[:PROJECT_COUNT])
     techstack = build_techstack_section(repos)
+    stars = build_stars_section(repos)
     try:
         events = fetch_public_events()
     except Exception as exc:  # don't let a hiccup block the other sections
@@ -455,6 +484,7 @@ def main() -> None:
     readme = update_section(readme, START_PROJECTS, END_PROJECTS, projects)
     readme = update_section(readme, START_TECHSTACK, END_TECHSTACK, techstack)
     readme = update_section(readme, START_ACTIVITY, END_ACTIVITY, activity)
+    readme = update_section(readme, START_STARS, END_STARS, stars)
 
     with open(README_PATH, "w", encoding="utf-8") as fh:
         fh.write(readme)
@@ -468,6 +498,8 @@ def main() -> None:
     print("--- Tech Stack (detected languages) ---")
     detected = sorted({repo.get('language') for repo in repos if repo.get('language')})
     print("  " + ", ".join(detected) if detected else "  (none)")
+    print("--- Most Starred Repos ---")
+    print(stars)
     print("--- Recent Activity ---")
     print(activity)
 
