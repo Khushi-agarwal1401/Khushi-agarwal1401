@@ -4,10 +4,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&color=E75480&lines=Full-Stack+Web+Developer;Computer+Science+Engineer;TypeScript+%7C+JavaScript+%7C+Python;Building+Web+Applications"/>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Khushi-agarwal1401&color=E75480&style=flat-square&label=Profile+Views"/>
 
 </div>
