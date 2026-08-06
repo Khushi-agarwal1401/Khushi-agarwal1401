@@ -33,6 +33,15 @@ I'm passionate about building modern web applications, solving challenging probl
 
 ---
 
+# Recent GitHub Activity
+
+<!-- START_SECTION:activity -->
+- 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 2d ago
+- ⭐ Starred **[PW IOI Open Source B1](https://github.com/imabhinavawasthi/PW-IOI-Open-Source-B1)** — 3d ago
+<!-- END_SECTION:activity -->
+
+---
+
 # Featured Projects
 
 Here are some of the projects I've built, with live stats. Feel free to explore, star, or contribute!
