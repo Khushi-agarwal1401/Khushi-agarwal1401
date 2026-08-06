@@ -1,0 +1,24 @@
+name: Weekly repo backups → Codeberg
+
+on:
+  schedule:
+    # Every Saturday at 02:00 UTC
+    - cron: '0 2 * * 6'
+  workflow_dispatch: # Allows a manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: read
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Mirror all public repos to Codeberg
+        env:
+          CODEBERG_USERNAME: ${{ secrets.CODEEBERG_USERNAME }}
+          CODEBERG_TOKEN: ${{ secrets.CODEEBERG_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+        run: bash .github/scripts/backup_to_codeberg.sh
