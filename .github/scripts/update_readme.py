@@ -15,6 +15,11 @@ Currently managed sections:
     Shows the most recently pushed public repos with live star/fork/language
     badge images.
 
+  - "Tech Stack" section, between:
+        <!-- START_SECTION:techstack --> ... <!-- END_SECTION:techstack -->
+    Curated skill icons plus auto-detected languages from the public repos
+    (new project in a new language -> its icon is added automatically).
+
 Runs inside GitHub Actions; can also be executed locally for testing.
 """
 
@@ -36,10 +41,13 @@ START_CURRENTLY = "<!-- START_SECTION:currently -->"
 END_CURRENTLY = "<!-- END_SECTION:currently -->"
 START_PROJECTS = "<!-- START_SECTION:projects -->"
 END_PROJECTS = "<!-- END_SECTION:projects -->"
+START_TECHSTACK = "<!-- START_SECTION:techstack -->"
+END_TECHSTACK = "<!-- END_SECTION:techstack -->"
 
 PROJECT_COUNT = 6  # projects shown in the Featured Projects table
 CURRENTLY_REPO_COUNT = 5
 MAX_LANGS = 3
+TECHSTACK_REPO_LIMIT = 30  # repos scanned for language detection
 
 BADGE_STYLE = "style=flat-square"
 
@@ -156,6 +164,93 @@ def build_currently_section(repos: list[dict]) -> str:
     return "\n".join([working, learning, collaborating])
 
 
+# ------------------------------------------------------------ Tech stack --
+
+# Curated base skills (things you know that may not show up in public repos)
+BASE_SKILLS = {
+    "Languages": ["c", "cpp", "java", "js", "python"],
+    "Frontend": ["html", "css", "bootstrap", "react"],
+    "Backend & Data": ["fastapi", "mysql", "nodejs", "mongodb"],
+    "Tools": ["git", "github", "vscode", "linux", "docker", "figma", "vercel", "netlify"],
+}
+
+# GitHub API language name -> (skillicons slug, category)
+AUTO_LANGS = {
+    # Languages
+    "TypeScript": ("ts", "Languages"),
+    "JavaScript": ("js", "Languages"),
+    "Python": ("python", "Languages"),
+    "Java": ("java", "Languages"),
+    "C": ("c", "Languages"),
+    "C++": ("cpp", "Languages"),
+    "C#": ("cs", "Languages"),
+    "Go": ("go", "Languages"),
+    "Rust": ("rust", "Languages"),
+    "Ruby": ("ruby", "Languages"),
+    "PHP": ("php", "Languages"),
+    "Kotlin": ("kotlin", "Languages"),
+    "Swift": ("swift", "Languages"),
+    "Dart": ("dart", "Languages"),
+    "Scala": ("scala", "Languages"),
+    "Shell": ("bash", "Languages"),
+    "Zig": ("zig", "Languages"),
+    "Lua": ("lua", "Languages"),
+    "Haskell": ("haskell", "Languages"),
+    "Elixir": ("elixir", "Languages"),
+    "Perl": ("perl", "Languages"),
+    "Objective-C": ("objectivec", "Languages"),
+    "Solidity": ("solidity", "Languages"),
+    "Assembly": ("assembly", "Languages"),
+    "TeX": ("latex", "Languages"),
+    # Frontend
+    "HTML": ("html", "Frontend"),
+    "CSS": ("css", "Frontend"),
+    "SCSS": ("sass", "Frontend"),
+    "LESS": ("less", "Frontend"),
+    "Stylus": ("stylus", "Frontend"),
+    "Vue": ("vue", "Frontend"),
+    "Svelte": ("svelte", "Frontend"),
+    "Astro": ("astro", "Frontend"),
+    # Backend & Data
+    "SQL": ("sql", "Backend & Data"),
+    "PostgreSQL": ("postgres", "Backend & Data"),
+    "Jupyter Notebook": ("jupyter", "Backend & Data"),
+    "MATLAB": ("matlab", "Backend & Data"),
+    "R": ("r", "Backend & Data"),
+    # Tools
+    "Dockerfile": ("docker", "Tools"),
+    "Makefile": ("make", "Tools"),
+    "CMake": ("cmake", "Tools"),
+    "Vim Script": ("vim", "Tools"),
+}
+
+
+def build_techstack_section(repos: list[dict]) -> str:
+    """Curated base skills + languages auto-detected from the user's repos."""
+    auto: dict[str, list[str]] = {}
+    for repo in repos:
+        entry = AUTO_LANGS.get(repo.get("language") or "")
+        if not entry:
+            continue
+        slug, category = entry
+        if slug not in auto.setdefault(category, []):
+            auto[category].append(slug)
+
+    blocks = []
+    for category, base in BASE_SKILLS.items():
+        slugs = list(base)
+        for slug in auto.get(category, []):
+            if slug not in slugs:
+                slugs.append(slug)
+        blocks.append(
+            f"### {category}\n\n"
+            '<div align="center">\n\n'
+            f'<img src="https://skillicons.dev/icons?i={",".join(slugs)}"/>\n\n'
+            "</div>"
+        )
+    return "\n\n".join(blocks)
+
+
 # ------------------------------------------------------- Featured projects --
 
 
@@ -227,15 +322,17 @@ def update_section(readme: str, start: str, end: str, content: str) -> str:
 
 
 def main() -> None:
-    repos = fetch_recent_repos(PROJECT_COUNT)
+    repos = fetch_recent_repos(TECHSTACK_REPO_LIMIT)
     currently = build_currently_section(repos[:CURRENTLY_REPO_COUNT])
-    projects = build_projects_section(OWNER, repos)
+    projects = build_projects_section(OWNER, repos[:PROJECT_COUNT])
+    techstack = build_techstack_section(repos)
 
     with open(README_PATH, encoding="utf-8") as fh:
         readme = fh.read()
 
     readme = update_section(readme, START_CURRENTLY, END_CURRENTLY, currently)
     readme = update_section(readme, START_PROJECTS, END_PROJECTS, projects)
+    readme = update_section(readme, START_TECHSTACK, END_TECHSTACK, techstack)
 
     with open(README_PATH, "w", encoding="utf-8") as fh:
         fh.write(readme)
@@ -244,8 +341,11 @@ def main() -> None:
     print("--- Currently ---")
     print(currently)
     print("--- Featured Projects (top repos) ---")
-    for repo in repos:
+    for repo in repos[:PROJECT_COUNT]:
         print(f"  - {repo.get('name')}")
+    print("--- Tech Stack (detected languages) ---")
+    detected = sorted({repo.get('language') for repo in repos if repo.get('language')})
+    print("  " + ", ".join(detected) if detected else "  (none)")
 
 
 if __name__ == "__main__":

@@ -82,11 +82,12 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 # Tech Stack
 
+<!-- START_SECTION:techstack -->
 ### Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,ts"/>
 
 </div>
 
@@ -113,6 +114,7 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,vercel,netlify"/>
 
 </div>
+<!-- END_SECTION:techstack -->
 
 ---
 
