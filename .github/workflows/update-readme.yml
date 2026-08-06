@@ -2,9 +2,9 @@ name: Update README (auto sections + contribution snake)
 
 on:
   schedule:
-    # Every Monday at 08:00 UTC — set to weekly as requested.
-    # Add more lines like '- cron: "0 8 * * 3"' (Wednesdays) for extra runs.
-    - cron: '0 8 * * 1'
+    # Daily at 08:00 UTC so the contribution snake stays fresh. The other
+    # sections are idempotent (no data change -> no commit).
+    - cron: '0 8 * * *'
   workflow_dispatch: # Allows a manual "Run workflow" from the Actions tab
 
 permissions:
