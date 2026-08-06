@@ -147,15 +147,7 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/Khushi-agarwal1401"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=Khushi-agarwal1401&theme=transparent&hide_border=true&ring=E75480&fire=E75480"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-agarwal1401&theme=synthwave-84&hide_border=true&area=true"/>
 
 <br><br>
 
