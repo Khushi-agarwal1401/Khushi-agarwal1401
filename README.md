@@ -134,6 +134,20 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-agarwal1401&theme=synthwave-84&hide_border=true&area=true"/>
 
+<br><br>
+
+<!-- Contribution Snake Game: an animated snake eats the contribution squares -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushi-agarwal1401/Khushi-agarwal1401/main/dist/github-contribution-grid-snake-dark.svg"/>
+  <img alt="GitHub contribution snake game" src="https://raw.githubusercontent.com/Khushi-agarwal1401/Khushi-agarwal1401/main/dist/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br><br>
+
+<a href="https://gh-tetris.vercel.app/">
+<img alt="Play Tetris on your contribution graph" src="https://img.shields.io/badge/Play%20Tetris%20on%20your%20Contribution%20Graph-E75480?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---

@@ -1,4 +1,4 @@
-name: Update README · Currently section
+name: Update README (auto sections + contribution snake)
 
 on:
   schedule:
@@ -11,7 +11,7 @@ permissions:
   contents: write # Required so the bot can commit the updated README
 
 jobs:
-  update-currently:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -22,15 +22,25 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/update_readme.py
 
+      # Contribution-grid Snake game (animated SVG that "eats" the contribution
+      # squares). Light + dark variants, snake coloured to match the pink branding.
+      - name: Generate contribution snake game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#E75480
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E75480
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md dist/
           if git diff --cached --quiet; then
             echo "✅ README is already up to date — no changes."
           else
-            git commit -m "docs: auto-update Currently section"
+            git commit -m "docs: auto-update README sections & contribution snake"
             git pull --rebase --autostash # Stay in sync in case the repo was updated elsewhere
             git push
           fi
