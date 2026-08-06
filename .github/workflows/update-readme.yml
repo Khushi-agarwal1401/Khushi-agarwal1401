@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5 # v5+ runs on Node 24 (Node 20 is deprecated)
 
       - name: Fetch GitHub data and update README
         env:
