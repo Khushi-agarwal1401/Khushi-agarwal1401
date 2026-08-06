@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=42&duration=1800&pause=2000&color=E75480&center=true&vCenter=true&width=600&lines=Khushi+Agarwal"/>
+<img src="https://raw.githubusercontent.com/Khushi-agarwal1401/Khushi-agarwal1401/main/banner.svg" width="100%"/>
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&color=E75480&lines=Full-Stack+Web+Developer;Computer+Science+Engineer;TypeScript+%7C+JavaScript+%7C+Python;Building+Web+Applications"/>
 

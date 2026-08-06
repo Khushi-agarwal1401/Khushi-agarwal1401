@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#150e22"/>
+      <stop offset="55%" stop-color="#201238"/>
+      <stop offset="100%" stop-color="#2c1349"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E75480"/>
+      <stop offset="100%" stop-color="#BF91FF"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E75480"/>
+      <stop offset="50%" stop-color="#F8D847"/>
+      <stop offset="100%" stop-color="#BF91FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1000" height="280" fill="url(#bgGrad)"/>
+
+  <!-- soft animated glow blobs -->
+  <circle cx="110" cy="250" r="170" fill="#E75480" opacity="0.10">
+    <animate attributeName="opacity" values="0.05;0.13;0.05" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="930" cy="30" r="150" fill="#BF91FF" opacity="0.10">
+    <animate attributeName="opacity" values="0.13;0.05;0.13" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="150" r="220" fill="#F8D847" opacity="0.04"/>
+
+  <!-- faint dot grid -->
+  <g fill="#BF91FF" opacity="0.10">
+    <circle cx="70" cy="40" r="2"/><circle cx="120" cy="40" r="2"/><circle cx="170" cy="40" r="2"/>
+    <circle cx="70" cy="80" r="2"/><circle cx="170" cy="80" r="2"/><circle cx="120" cy="120" r="2"/>
+    <circle cx="880" cy="240" r="2"/><circle cx="930" cy="240" r="2"/><circle cx="880" cy="200" r="2"/><circle cx="930" cy="200" r="2"/>
+  </g>
+
+  <!-- name -->
+  <text x="70" y="142" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, sans-serif" font-size="72" font-weight="700" fill="url(#nameGrad)">Khushi Agarwal</text>
+
+  <!-- tagline -->
+  <text x="72" y="192" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, sans-serif" font-size="26" fill="#cfc2ea">Full-Stack Developer &#183; CS Engineer &#183; Make in India</text>
+
+  <!-- animated accent line -->
+  <rect x="72" y="212" width="220" height="5" rx="2.5" fill="url(#accentGrad)">
+    <animate attributeName="width" values="110;230;110" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- code editor card -->
+  <g transform="translate(712,52)">
+    <rect width="216" height="176" rx="16" fill="#0c0716" opacity="0.92"/>
+    <circle cx="30" cy="26" r="7" fill="#E75480"/>
+    <circle cx="54" cy="26" r="7" fill="#F8D847"/>
+    <circle cx="78" cy="26" r="7" fill="#4CD6A3"/>
+    <text x="30" y="78" font-family="Consolas, Menlo, monospace" font-size="19" fill="#BF91FF">&lt;developer /&gt;</text>
+    <text x="30" y="112" font-family="Consolas, Menlo, monospace" font-size="19" fill="#F8D847">{ code }</text>
+    <text x="30" y="146" font-family="Consolas, Menlo, monospace" font-size="19" fill="#E75480">🚀 build(somethingGreat)</text>
+  </g>
+</svg>
