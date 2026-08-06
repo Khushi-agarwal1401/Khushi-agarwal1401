@@ -155,8 +155,8 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <br><br>
 
-<a href="https://gh-tetris.vercel.app/">
-<img alt="Play Tetris on your contribution graph" src="https://img.shields.io/badge/Play%20Tetris%20on%20your%20Contribution%20Graph-E75480?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://abozanona.github.io/pacman-contribution-graph/">
+<img alt="Play Pac-Man on your contribution graph" src="https://img.shields.io/badge/Play%20Pac%20Man%20on%20your%20Contribution%20Graph-E75480?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
