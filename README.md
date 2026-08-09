@@ -26,7 +26,7 @@ I'm passionate about building modern web applications, solving challenging probl
 <!-- START_SECTION:currently -->
 - 🔭 Working on **AI Resume Builder and Analyzer**
 - 🌱 Learning **TypeScript**, **JavaScript**, **HTML**
-- 👯 Looking to collaborate on **AI Resume Builder and Analyzer**, **TrustFlow**
+- 👯 Looking to collaborate on **TrustFlow**
 <!-- END_SECTION:currently -->
 
 ---
@@ -34,9 +34,9 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 2h ago
-- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 2h ago
-- 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 20h ago
+- 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 18h ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 1d ago
+- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 1d ago
 <!-- END_SECTION:activity -->
 
 ---
