@@ -34,11 +34,11 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 8m ago
-- 🚀 Pushed to **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 14h ago
-- 🌿 Created a branch in **[Basic Python Projects](https://github.com/Khushi-agarwal1401/Basic-Python-Projects)** — 18h ago
-- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 4d ago
-- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 4d ago
+- 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 22m ago
+- 🚀 Pushed to **[Basic Python Projects](https://github.com/Khushi-agarwal1401/Basic-Python-Projects)** — 13h ago
+- 🚀 Pushed to **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 15h ago
+- 🌿 Created a branch in **[Basic Python Projects](https://github.com/Khushi-agarwal1401/Basic-Python-Projects)** — 1d ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 5d ago
 <!-- END_SECTION:activity -->
 
 ---
@@ -57,15 +57,15 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Personal-Portfolio"><b>Personal Portfolio</b></a><br>
-      Portfolio<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Basic-Python-Projects"><b>Basic Python Projects</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Basic-Python-Projects"><b>Basic Python Projects</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Personal-Portfolio"><b>Personal Portfolio</b></a><br>
+      Portfolio<br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Task-Tracker"><b>Task Tracker</b></a><br>
