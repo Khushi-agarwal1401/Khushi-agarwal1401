@@ -34,11 +34,9 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 52m ago
-- 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 16h ago
-- 🚀 Pushed to **[Basic Python Projects](https://github.com/Khushi-agarwal1401/Basic-Python-Projects)** — 1d ago
-- 🚀 Pushed to **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1d ago
-- 🌿 Created a branch in **[Basic Python Projects](https://github.com/Khushi-agarwal1401/Basic-Python-Projects)** — 2d ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 12h ago
+- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 13h ago
+- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 13h ago
 <!-- END_SECTION:activity -->
 
 ---
