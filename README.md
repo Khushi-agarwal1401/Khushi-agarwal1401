@@ -34,9 +34,9 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 12h ago
-- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 13h ago
-- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 13h ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 1d ago
+- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 1d ago
+- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 1d ago
 <!-- END_SECTION:activity -->
 
 ---
