@@ -24,8 +24,8 @@ I'm passionate about building modern web applications, solving challenging probl
 # Currently
 
 <!-- START_SECTION:currently -->
-- 🔭 Working on **Task Tracker**
-- 🌱 Learning **TypeScript**, **CSS**, **JavaScript**
+- 🔭 Working on **Zenix**
+- 🌱 Learning **Python**, **TypeScript**, **CSS**
 - 👯 Looking to collaborate on open-source projects
 <!-- END_SECTION:currently -->
 
@@ -34,9 +34,11 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 1d ago
-- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 1d ago
-- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 1d ago
+- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 2h ago
+- 🌿 Created a branch in **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 14h ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 2d ago
+- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 2d ago
+- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 2d ago
 <!-- END_SECTION:activity -->
 
 ---
@@ -51,34 +53,34 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 <table>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Task-Tracker"><b>Task Tracker</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Zenix"><b>Zenix</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Zenix?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Task-Tracker"><b>Task Tracker</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
     <tr>
     <td align="center">
+      <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
+    </td>
+    <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Basic-Python-Projects"><b>Basic Python Projects</b></a><br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Language&color=F8D847"/>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Personal-Portfolio"><b>Personal Portfolio</b></a><br>
       Portfolio<br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Language&color=F8D847"/>
     </td>
-    </tr>
-    <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/GitHub-Developer-Explorer"><b>GitHub Developer Explorer</b></a><br>
       A sleek, highly modular Vanilla JS web app to search and analyze GitHub…<br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Language&color=F8D847"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/TrustFlow"><b>TrustFlow</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
 </table>
@@ -92,10 +94,10 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <!-- START_SECTION:stars -->
 1. ⭐ **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1 ⭐ · CSS
-2. ⭐ **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** · TypeScript
-3. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
-4. ⭐ **[Basic Python Projects](https://github.com/Khushi-agarwal1401/Basic-Python-Projects)** · CSS
-5. ⭐ **[GitHub Developer Explorer](https://github.com/Khushi-agarwal1401/GitHub-Developer-Explorer)** · JavaScript
+2. ⭐ **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** · Python
+3. ⭐ **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** · TypeScript
+4. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
+5. ⭐ **[Basic Python Projects](https://github.com/Khushi-agarwal1401/Basic-Python-Projects)** · CSS
 <!-- END_SECTION:stars -->
 
 ---
