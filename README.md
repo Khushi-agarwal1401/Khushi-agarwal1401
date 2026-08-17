@@ -14,7 +14,7 @@
 
 I'm **Khushi Munna Kumar Agarwal**, a B.Tech Computer Science student at **PW Institute of Innovation (PW IOI)**, Pune.
 
-I'm passionate about building modern web applications, solving challenging problems, and contributing to open source. I'm interested in developing innovative technology solutions and working toward building an indigenous Indian computing brand aligned with the **Make in India** vision.
+I'm passionate about building modern web applications, solving challenging problems, and contributing to open source. I'm interested in developing innovative technology solutions and working towar[...]
 
 - 💻 Full-Stack Web Developer (Frontend + Backend)
 - 🚀 Building practical, real-world web applications
@@ -54,33 +54,33 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
     <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Zenix"><b>Zenix</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Zenix?style=flat-square&label=Language&color=F8D847"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=f[...]"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Task-Tracker"><b>Task Tracker</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Language&color=F8D847"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Task-T[...]"/>
     </td>
     </tr>
     <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-[...]"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Basic-Python-Projects"><b>Basic Python Projects</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Language&color=F8D847"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal14[...]"/>
     </td>
     </tr>
     <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Personal-Portfolio"><b>Personal Portfolio</b></a><br>
       Portfolio<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Language&color=F8D847"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/[...]"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/GitHub-Developer-Explorer"><b>GitHub Developer Explorer</b></a><br>
       A sleek, highly modular Vanilla JS web app to search and analyze GitHub…<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Language&color=F8D847"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarw[...]"/>
     </td>
     </tr>
 </table>
@@ -185,6 +185,9 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 <a href="https://hacktoberfest.com/">
 <img src="https://img.shields.io/badge/Hacktoberfest-183D5D?style=for-the-badge&logo=digitalocean&logoColor=white"/>
 </a>
+
+
+<div><a href="https://cloud.layer5.io/user/9fe9d401-ac25-4224-a175-25cd71338513?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
 </div>
 
