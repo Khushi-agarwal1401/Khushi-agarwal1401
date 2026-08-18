@@ -34,11 +34,11 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 2h ago
-- 🌿 Created a branch in **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 14h ago
-- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 2d ago
-- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 2d ago
-- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 2d ago
+- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 1d ago
+- 🌿 Created a branch in **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 1d ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 3d ago
+- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 3d ago
+- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 3d ago
 <!-- END_SECTION:activity -->
 
 ---
@@ -54,33 +54,33 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
     <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Zenix"><b>Zenix</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=f[...]"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Zenix?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Task-Tracker"><b>Task Tracker</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Task-T[...]"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
     <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-[...]"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Basic-Python-Projects"><b>Basic Python Projects</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal14[...]"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Basic-Python-Projects?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
     <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Personal-Portfolio"><b>Personal Portfolio</b></a><br>
       Portfolio<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/[...]"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/GitHub-Developer-Explorer"><b>GitHub Developer Explorer</b></a><br>
       A sleek, highly modular Vanilla JS web app to search and analyze GitHub…<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarw[...]"/>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/GitHub-Developer-Explorer?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
 </table>
