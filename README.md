@@ -34,11 +34,11 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 1d ago
-- 🌿 Created a branch in **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 1d ago
-- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 3d ago
-- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 3d ago
-- 🌿 Created a branch in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 3d ago
+- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 2h ago
+- ⭐ Starred **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 3h ago
+- 🌿 Created a branch in **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 2d ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 4d ago
+- 🔀 Opened a PR in **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 4d ago
 <!-- END_SECTION:activity -->
 
 ---
