@@ -24,8 +24,8 @@ I'm passionate about building modern web applications, solving challenging probl
 # Currently
 
 <!-- START_SECTION:currently -->
-- 🔭 Working on **Open Source Project Explorer**
-- 🌱 Learning **TypeScript**, **Python**, **CSS**
+- 🔭 Working on **Zenix**
+- 🌱 Learning **Python**, **TypeScript**, **CSS**
 - 👯 Looking to collaborate on open-source projects
 <!-- END_SECTION:currently -->
 
@@ -34,11 +34,10 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 2h ago
-- 🌿 Created a branch in **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 15h ago
-- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 17h ago
-- ⭐ Starred **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1d ago
-- 🌿 Created a branch in **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 3d ago
+- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 17m ago
+- 🚀 Pushed to **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 1d ago
+- 🌿 Created a branch in **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 1d ago
+- ⭐ Starred **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 2d ago
 <!-- END_SECTION:activity -->
 
 ---
@@ -53,12 +52,12 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 <table>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer"><b>Open Source Project Explorer</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Language&color=F8D847"/>
-    </td>
-    <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Zenix"><b>Zenix</b></a><br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Zenix?style=flat-square&label=Language&color=F8D847"/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer"><b>Open Source Project Explorer</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
     <tr>
@@ -93,8 +92,8 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <!-- START_SECTION:stars -->
 1. ⭐ **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1 ⭐ · CSS
-2. ⭐ **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** · TypeScript
-3. ⭐ **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** · Python
+2. ⭐ **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** · Python
+3. ⭐ **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** · TypeScript
 4. ⭐ **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** · TypeScript
 5. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
 <!-- END_SECTION:stars -->
