@@ -24,8 +24,8 @@ I'm passionate about building modern web applications, solving challenging probl
 # Currently
 
 <!-- START_SECTION:currently -->
-- 🔭 Working on **Open Source Project Explorer**
-- 🌱 Learning **TypeScript**, **Python**, **CSS**
+- 🔭 Working on **Zenix**
+- 🌱 Learning **Python**, **TypeScript**, **CSS**
 - 👯 Looking to collaborate on open-source projects
 <!-- END_SECTION:currently -->
 
@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🍴 Forked **[sistent](https://github.com/layer5io/sistent)** — 3d ago
-- 💬 Commented in **[sistent](https://github.com/layer5io/sistent)** — 3d ago
-- 🍴 Forked **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 3d ago
-- 🚀 Pushed to **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 3d ago
-- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 3d ago
-- 🌿 Created a branch in **[meshery](https://github.com/Khushi-agarwal1401/meshery)** — 4d ago
+- 🍴 Forked **[sistent](https://github.com/layer5io/sistent)** — 4d ago
+- 💬 Commented in **[sistent](https://github.com/layer5io/sistent)** — 4d ago
+- 🍴 Forked **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 4d ago
+- 🚀 Pushed to **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 5d ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 5d ago
+- 🌿 Created a branch in **[meshery](https://github.com/Khushi-agarwal1401/meshery)** — 6d ago
 <!-- END_SECTION:activity -->
 
 ---
@@ -54,18 +54,18 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 <table>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer"><b>Open Source Project Explorer</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Zenix"><b>Zenix</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Zenix?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Task-Tracker"><b>Task Tracker</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer"><b>Open Source Project Explorer</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Open-Source-Project-Explorer?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Zenix"><b>Zenix</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Zenix?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Task-Tracker"><b>Task Tracker</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Task-Tracker?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
@@ -94,9 +94,9 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <!-- START_SECTION:stars -->
 1. ⭐ **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1 ⭐ · CSS
-2. ⭐ **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** · TypeScript
-3. ⭐ **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** · TypeScript
-4. ⭐ **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** · Python
+2. ⭐ **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** · Python
+3. ⭐ **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** · TypeScript
+4. ⭐ **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** · TypeScript
 5. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
 <!-- END_SECTION:stars -->
 
