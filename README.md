@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🍴 Forked **[sistent](https://github.com/layer5io/sistent)** — 4d ago
-- 💬 Commented in **[sistent](https://github.com/layer5io/sistent)** — 4d ago
-- 🍴 Forked **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 4d ago
-- 🚀 Pushed to **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 5d ago
-- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 5d ago
-- 🌿 Created a branch in **[meshery](https://github.com/Khushi-agarwal1401/meshery)** — 6d ago
+- 🍴 Forked **[sistent](https://github.com/layer5io/sistent)** — 5d ago
+- 💬 Commented in **[sistent](https://github.com/layer5io/sistent)** — 5d ago
+- 🍴 Forked **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 5d ago
+- 🚀 Pushed to **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 6d ago
+- 🚀 Pushed to **[Task Tracker](https://github.com/Khushi-agarwal1401/Task-Tracker)** — 6d ago
+- 🌿 Created a branch in **[meshery](https://github.com/Khushi-agarwal1401/meshery)** — 1w ago
 <!-- END_SECTION:activity -->
 
 ---
