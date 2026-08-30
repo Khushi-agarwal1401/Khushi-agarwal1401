@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 💬 Commented in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 7h ago
-- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 1d ago
-- 🍴 Forked **[sistent](https://github.com/layer5io/sistent)** — 6d ago
-- 💬 Commented in **[sistent](https://github.com/layer5io/sistent)** — 6d ago
-- 🍴 Forked **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 6d ago
-- 🚀 Pushed to **[Open Source Project Explorer](https://github.com/Khushi-agarwal1401/Open-Source-Project-Explorer)** — 1w ago
+- 🐛 Opened an issue in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 8h ago
+- 💬 Commented in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 1d ago
+- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 2d ago
+- 🍴 Forked **[sistent](https://github.com/layer5io/sistent)** — 1w ago
+- 💬 Commented in **[sistent](https://github.com/layer5io/sistent)** — 1w ago
+- 🍴 Forked **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 1w ago
 <!-- END_SECTION:activity -->
 
 ---
