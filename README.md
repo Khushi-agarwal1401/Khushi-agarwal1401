@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[sistent](https://github.com/Khushi-agarwal1401/sistent)** — 19h ago
-- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 1d ago
-- 🐛 Opened an issue in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 4d ago
-- 💬 Commented in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 5d ago
-- 🍴 Forked **[sistent](https://github.com/layer5io/sistent)** — 1w ago
-- 💬 Commented in **[sistent](https://github.com/layer5io/sistent)** — 1w ago
+- ⭐ Starred **[failproofai](https://github.com/FailproofAI/failproofai)** — 22h ago
+- 🍴 Forked **[Memori](https://github.com/MemoriLabs/Memori)** — 22h ago
+- ⭐ Starred **[Memori](https://github.com/MemoriLabs/Memori)** — 22h ago
+- 🚀 Pushed to **[sistent](https://github.com/Khushi-agarwal1401/sistent)** — 1d ago
+- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 2d ago
+- 🐛 Opened an issue in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 5d ago
 <!-- END_SECTION:activity -->
 
 ---
