@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 1d ago
-- ⭐ Starred **[failproofai](https://github.com/FailproofAI/failproofai)** — 2d ago
-- 🍴 Forked **[Memori](https://github.com/MemoriLabs/Memori)** — 2d ago
-- ⭐ Starred **[Memori](https://github.com/MemoriLabs/Memori)** — 2d ago
-- 🚀 Pushed to **[sistent](https://github.com/Khushi-agarwal1401/sistent)** — 3d ago
-- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 4d ago
+- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 2d ago
+- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 2d ago
+- ⭐ Starred **[failproofai](https://github.com/FailproofAI/failproofai)** — 4d ago
+- 🍴 Forked **[Memori](https://github.com/MemoriLabs/Memori)** — 4d ago
+- ⭐ Starred **[Memori](https://github.com/MemoriLabs/Memori)** — 4d ago
+- 🚀 Pushed to **[sistent](https://github.com/Khushi-agarwal1401/sistent)** — 4d ago
 <!-- END_SECTION:activity -->
 
 ---
