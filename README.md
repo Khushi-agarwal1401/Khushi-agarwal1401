@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Expense Tracker](https://github.com/Khushi-agarwal1401/Expense-Tracker)** — 5d ago
-- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 6d ago
-- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 6d ago
+- 🔀 Opened a PR in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 18h ago
+- 🚀 Pushed to **[Expense Tracker](https://github.com/Khushi-agarwal1401/Expense-Tracker)** — 6d ago
+- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 1w ago
+- 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 1w ago
 - ⭐ Starred **[failproofai](https://github.com/FailproofAI/failproofai)** — 1w ago
 - 🍴 Forked **[Memori](https://github.com/MemoriLabs/Memori)** — 1w ago
-- ⭐ Starred **[Memori](https://github.com/MemoriLabs/Memori)** — 1w ago
 <!-- END_SECTION:activity -->
 
 ---
