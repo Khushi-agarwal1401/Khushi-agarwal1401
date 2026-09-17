@@ -34,10 +34,10 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 2d ago
-- 🌿 Created a branch in **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 4d ago
-- 🚀 Pushed to **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 3d ago
-- 🔀 Opened a PR in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 4d ago
+- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 3d ago
+- 🌿 Created a branch in **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 5d ago
+- 🚀 Pushed to **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 4d ago
+- 🔀 Opened a PR in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 5d ago
 - 🚀 Pushed to **[Expense Tracker](https://github.com/Khushi-agarwal1401/Expense-Tracker)** — 1w ago
 - 🚀 Pushed to **[Zenix](https://github.com/Khushi-agarwal1401/Zenix)** — 1w ago
 <!-- END_SECTION:activity -->
