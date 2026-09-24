@@ -34,9 +34,9 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** — 1d ago
-- ⭐ Starred **[webcmd](https://github.com/agentrhq/webcmd)** — 3d ago
-- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 4d ago
+- 🚀 Pushed to **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** — 2d ago
+- ⭐ Starred **[webcmd](https://github.com/agentrhq/webcmd)** — 4d ago
+- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 5d ago
 - 🌿 Created a branch in **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 1w ago
 - 🚀 Pushed to **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 1w ago
 - 🔀 Opened a PR in **[open source pw ioi batch 1](https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1)** — 1w ago
