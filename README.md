@@ -24,8 +24,8 @@ I'm passionate about building modern web applications, solving challenging probl
 # Currently
 
 <!-- START_SECTION:currently -->
-- 🔭 Working on **AI Resume Builder and Analyzer**
-- 🌱 Learning **TypeScript**, **HTML**, **JavaScript**
+- 🔭 Working on **Grocery App**
+- 🌱 Learning **HTML**, **TypeScript**, **JavaScript**
 - 👯 Looking to collaborate on **TrustFlow**
 <!-- END_SECTION:currently -->
 
@@ -34,10 +34,10 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 1d ago
-- 🚀 Pushed to **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** — 2d ago
+- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 57m ago
+- 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 2d ago
+- 🚀 Pushed to **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** — 3d ago
 - ⭐ Starred **[webcmd](https://github.com/agentrhq/webcmd)** — 1w ago
-- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 1w ago
 - 🌿 Created a branch in **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 2w ago
 - 🚀 Pushed to **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 2w ago
 <!-- END_SECTION:activity -->
@@ -54,18 +54,18 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 <table>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/Grocery_App"><b>Grocery App</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/TrustFlow"><b>TrustFlow</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Grocery_App"><b>Grocery App</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/TrustFlow"><b>TrustFlow</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Expense-Tracker"><b>Expense Tracker</b></a><br>
@@ -94,9 +94,9 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <!-- START_SECTION:stars -->
 1. ⭐ **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1 ⭐ · CSS
-2. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
-3. ⭐ **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** · TypeScript
-4. ⭐ **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** · HTML
+2. ⭐ **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** · HTML
+3. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
+4. ⭐ **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** · TypeScript
 5. ⭐ **[Expense Tracker](https://github.com/Khushi-agarwal1401/Expense-Tracker)** · JavaScript
 <!-- END_SECTION:stars -->
 
