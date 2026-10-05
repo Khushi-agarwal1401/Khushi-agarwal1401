@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- ⭐ Starred **[kestra](https://github.com/kestra-io/kestra)** — 2d ago
-- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 4d ago
+- 🚀 Pushed to **[kestra](https://github.com/Khushi-agarwal1401/kestra)** — 1h ago
+- ⭐ Starred **[kestra](https://github.com/kestra-io/kestra)** — 3d ago
+- 🚀 Pushed to **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** — 5d ago
 - 🚀 Pushed to **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** — 1w ago
 - 🚀 Pushed to **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** — 1w ago
 - ⭐ Starred **[webcmd](https://github.com/agentrhq/webcmd)** — 2w ago
-- 🌿 Created a branch in **[open source pw ioi batch 1](https://github.com/Khushi-agarwal1401/open-source-pw-ioi-batch-1)** — 3w ago
 <!-- END_SECTION:activity -->
 
 ---
