@@ -34,9 +34,9 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[kestra](https://github.com/Khushi-agarwal1401/kestra)** — 3d ago
-- 🍴 Forked **[cognee](https://github.com/topoteretes/cognee)** — 1w ago
-- ⭐ Starred **[cognee](https://github.com/topoteretes/cognee)** — 1w ago
+- 🚀 Pushed to **[kestra](https://github.com/Khushi-agarwal1401/kestra)** — 4d ago
+- 🍴 Forked **[cognee](https://github.com/topoteretes/cognee)** — 2w ago
+- ⭐ Starred **[cognee](https://github.com/topoteretes/cognee)** — 2w ago
 - 🌿 Created a branch in **[kestra](https://github.com/Khushi-agarwal1401/kestra)** — 2w ago
 - 💬 Commented in **[kestra](https://github.com/kestra-io/kestra)** — 2w ago
 - 🔀 Opened a PR in **[kestra](https://github.com/kestra-io/kestra)** — 2w ago
