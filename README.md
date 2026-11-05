@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 💬 Commented in **[Kinetic](https://github.com/namish18/Kinetic)** — 59m ago
-- 💬 Commented in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 1h ago
-- 🔀 Opened a PR in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 2h ago
-- 🍴 Forked **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 1d ago
-- ⭐ Starred **[future agi](https://github.com/future-agi/future-agi)** — 1w ago
-- ⭐ Starred **[vcluster](https://github.com/loft-sh/vcluster)** — 1w ago
+- 🌿 Created a branch in **[Civic Connect](https://github.com/Khushi-agarwal1401/Civic-Connect)** — 1d ago
+- 💬 Commented in **[Kinetic](https://github.com/namish18/Kinetic)** — 5h ago
+- 🔀 Opened a PR in **[vibeZone](https://github.com/Ankitbhalke137/vibeZone)** — 5h ago
+- 🔀 Opened a PR in **[Kinetic](https://github.com/namish18/Kinetic)** — 7h ago
+- ⭐ Starred **[free for dev](https://github.com/ripienaar/free-for-dev)** — 9h ago
+- 🍴 Forked **[Kinetic](https://github.com/namish18/Kinetic)** — 22h ago
 <!-- END_SECTION:activity -->
 
 ---
