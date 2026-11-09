@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 💬 Commented in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 36m ago
-- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 7h ago
-- 🌿 Created a branch in **[MyPersonalAssistant](https://github.com/Khushi-agarwal1401/MyPersonalAssistant)** — 5h ago
-- 🍴 Forked **[WorkSphere](https://github.com/SatyamPandey-07/WorkSphere)** — 1h ago
-- 🚀 Pushed to **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 18h ago
-- 🚀 Pushed to **[Kinetic](https://github.com/Khushi-agarwal1401/Kinetic)** — 8h ago
+- 🔀 Opened a PR in **[Messline](https://github.com/sanjana2505006/Messline)** — 1h ago
+- 🚀 Pushed to **[WorkSphere](https://github.com/Khushi-agarwal1401/WorkSphere)** — 5h ago
+- 💬 Commented in **[Messline](https://github.com/sanjana2505006/Messline)** — 4h ago
+- 💬 Commented in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 6h ago
+- 🚀 Pushed to **[Civic Connect](https://github.com/Khushi-agarwal1401/Civic-Connect)** — 7h ago
+- 💬 Commented in **[smart connectivity analyser](https://github.com/saurabhwagh01/smart-connectivity-analyser)** — 5h ago
 <!-- END_SECTION:activity -->
 
 ---
