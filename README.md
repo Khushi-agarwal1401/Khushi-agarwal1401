@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[WorkSphere](https://github.com/Khushi-agarwal1401/WorkSphere)** — 21h ago
-- 🚀 Pushed to **[PetSathi](https://github.com/Khushi-agarwal1401/PetSathi)** — 21h ago
-- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 1d ago
-- 💬 Commented in **[MyPersonalAssistant](https://github.com/kismatkumari56/MyPersonalAssistant)** — 4h ago
-- 🚀 Pushed to **[smart connectivity analyser](https://github.com/Khushi-agarwal1401/smart-connectivity-analyser)** — 1d ago
-- 💬 Commented in **[smart connectivity analyser](https://github.com/saurabhwagh01/smart-connectivity-analyser)** — 6h ago
+- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 5h ago
+- 🚀 Pushed to **[MyPersonalAssistant](https://github.com/Khushi-agarwal1401/MyPersonalAssistant)** — 1d ago
+- 💬 Commented in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 4h ago
+- 🔀 Opened a PR in **[Messline](https://github.com/sanjana2505006/Messline)** — 5h ago
+- 🌿 Created a branch in **[MyPersonalAssistant](https://github.com/Khushi-agarwal1401/MyPersonalAssistant)** — 1d ago
+- 🚀 Pushed to **[Civic Connect](https://github.com/Khushi-agarwal1401/Civic-Connect)** — 2d ago
 <!-- END_SECTION:activity -->
 
 ---
