@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 1d ago
-- 🚀 Pushed to **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 1d ago
-- 💬 Commented in **[MyPersonalAssistant](https://github.com/kismatkumari56/MyPersonalAssistant)** — 21h ago
-- 💬 Commented in **[WorkSphere](https://github.com/SatyamPandey-07/WorkSphere)** — 21h ago
-- 🍴 Forked **[taskmanager nsoc2](https://github.com/qwerty274/taskmanager-nsoc2)** — 19h ago
-- 💬 Commented in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 21h ago
+- 💬 Commented in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 43m ago
+- 🚀 Pushed to **[Civic Connect](https://github.com/Khushi-agarwal1401/Civic-Connect)** — 1h ago
+- 💬 Commented in **[Messline](https://github.com/sanjana2505006/Messline)** — 58m ago
+- 🔀 Opened a PR in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 1h ago
+- 🔀 Opened a PR in **[kshemOS](https://github.com/GoldRay19/kshemOS)** — 4h ago
+- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 2d ago
 <!-- END_SECTION:activity -->
 
 ---
