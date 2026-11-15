@@ -24,7 +24,7 @@ I'm passionate about building modern web applications, solving challenging probl
 # Currently
 
 <!-- START_SECTION:currently -->
-- 🔭 Working on **Personal Portfolio** — Portfolio
+- 🔭 Working on **OpenGit** — AI Open-Source Contribution Manager
 - 🌱 Learning **CSS**, **TypeScript**, **HTML**
 - 👯 Looking to collaborate on **AI Resume Builder and Analyzer**, **TrustFlow**
 <!-- END_SECTION:currently -->
@@ -35,11 +35,11 @@ I'm passionate about building modern web applications, solving challenging probl
 
 <!-- START_SECTION:activity -->
 - 💬 Commented in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 43m ago
-- 🚀 Pushed to **[Civic Connect](https://github.com/Khushi-agarwal1401/Civic-Connect)** — 1h ago
-- 💬 Commented in **[Messline](https://github.com/sanjana2505006/Messline)** — 58m ago
-- 🔀 Opened a PR in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 1h ago
-- 🔀 Opened a PR in **[kshemOS](https://github.com/GoldRay19/kshemOS)** — 4h ago
-- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 2d ago
+- 🚀 Pushed to **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 2d ago
+- 🔀 Opened a PR in **[taskmanager nsoc2](https://github.com/qwerty274/taskmanager-nsoc2)** — 7h ago
+- 🔀 Opened a PR in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 8h ago
+- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 1d ago
+- 💬 Commented in **[kshemOS](https://github.com/GoldRay19/kshemOS)** — 21h ago
 <!-- END_SECTION:activity -->
 
 ---
@@ -54,34 +54,35 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 <table>
     <tr>
     <td align="center">
+      <a href="https://github.com/Khushi-agarwal1401/OpenGit"><b>OpenGit</b></a><br>
+      AI Open-Source Contribution Manager<br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/OpenGit?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/OpenGit?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/OpenGit?style=flat-square&label=Language&color=F8D847"/>
+    </td>
+    <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Personal-Portfolio"><b>Personal Portfolio</b></a><br>
       Portfolio<br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Personal-Portfolio?style=flat-square&label=Language&color=F8D847"/>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
     </td>
-    </tr>
-    <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Grocery_App"><b>Grocery App</b></a><br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Grocery_App?style=flat-square&label=Language&color=F8D847"/>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/TrustFlow"><b>TrustFlow</b></a><br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/TrustFlow?style=flat-square&label=Language&color=F8D847"/>
     </td>
-    </tr>
-    <tr>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Expense-Tracker"><b>Expense Tracker</b></a><br>
       Expense Tracker application with income and expense management, complete CRUD…<br>
       <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Expense-Tracker?style=flat-square&label=Language&color=F8D847"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/Zenix"><b>Zenix</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/Zenix?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/Zenix?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/Zenix?style=flat-square&label=Language&color=F8D847"/>
     </td>
     </tr>
 </table>
@@ -95,10 +96,10 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <!-- START_SECTION:stars -->
 1. ⭐ **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1 ⭐ · CSS
-2. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
-3. ⭐ **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** · HTML
-4. ⭐ **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** · TypeScript
-5. ⭐ **[Expense Tracker](https://github.com/Khushi-agarwal1401/Expense-Tracker)** · JavaScript
+2. ⭐ **[OpenGit](https://github.com/Khushi-agarwal1401/OpenGit)**
+3. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
+4. ⭐ **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** · HTML
+5. ⭐ **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** · TypeScript
 <!-- END_SECTION:stars -->
 
 ---
