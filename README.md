@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 💬 Commented in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 43m ago
-- 🚀 Pushed to **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 2d ago
-- 🔀 Opened a PR in **[taskmanager nsoc2](https://github.com/qwerty274/taskmanager-nsoc2)** — 7h ago
-- 🔀 Opened a PR in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 8h ago
-- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 1d ago
-- 💬 Commented in **[kshemOS](https://github.com/GoldRay19/kshemOS)** — 21h ago
+- 💬 Commented in **[Messline](https://github.com/sanjana2505006/Messline)** — 1h ago
+- 💬 Commented in **[smolchat android](https://github.com/smollabs/smolchat-android)** — 3h ago
+- 💬 Commented in **[AI Resume Analyzer](https://github.com/kismatkumari56/AI-Resume-Analyzer)** — 3h ago
+- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 2h ago
+- 🔀 Opened a PR in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 2h ago
+- ⭐ Starred **[smolchat android](https://github.com/smollabs/smolchat-android)** — 2h ago
 <!-- END_SECTION:activity -->
 
 ---
