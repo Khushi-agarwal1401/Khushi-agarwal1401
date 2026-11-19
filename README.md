@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[taskmanager nsoc2](https://github.com/Khushi-agarwal1401/taskmanager-nsoc2)** — 1d ago
-- 🔀 Opened a PR in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 1h ago
-- 🚀 Pushed to **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 1d ago
-- 🚀 Pushed to **[smolchat android](https://github.com/Khushi-agarwal1401/smolchat-android)** — 1d ago
-- 🌿 Created a branch in **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 1d ago
-- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 8h ago
+- 💬 Commented in **[AI Resume Analyzer](https://github.com/kismatkumari56/AI-Resume-Analyzer)** — 11m ago
+- 🚀 Pushed to **[PetSathi](https://github.com/Khushi-agarwal1401/PetSathi)** — 1d ago
+- 🔀 Opened a PR in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 2h ago
+- 🚀 Pushed to **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 1d ago
+- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 4h ago
+- 💬 Commented in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 4h ago
 <!-- END_SECTION:activity -->
 
 ---
