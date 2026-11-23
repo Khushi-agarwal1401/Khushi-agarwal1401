@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 🚀 Pushed to **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 2d ago
-- 🌿 Created a branch in **[PetSathi](https://github.com/Khushi-agarwal1401/PetSathi)** — 1d ago
-- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 3h ago
-- 🔀 Opened a PR in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 3h ago
-- 🌿 Created a branch in **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 20h ago
-- 🔀 Opened a PR in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 20h ago
+- 🌿 Created a branch in **[PetSathi](https://github.com/Khushi-agarwal1401/PetSathi)** — 6h ago
+- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 55m ago
+- 🔀 Opened a PR in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 2h ago
+- 🚀 Pushed to **[PetSathi](https://github.com/Khushi-agarwal1401/PetSathi)** — 2d ago
+- 🌿 Created a branch in **[Messline](https://github.com/Khushi-agarwal1401/Messline)** — 2d ago
+- 💬 Commented in **[AI Resume Analyzer](https://github.com/kismatkumari56/AI-Resume-Analyzer)** — 4h ago
 <!-- END_SECTION:activity -->
 
 ---
