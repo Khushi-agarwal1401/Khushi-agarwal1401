@@ -24,8 +24,8 @@ I'm passionate about building modern web applications, solving challenging probl
 # Currently
 
 <!-- START_SECTION:currently -->
-- 🔭 Working on **OpenGit** — AI Open-Source Contribution Manager
-- 🌱 Learning **CSS**, **TypeScript**, **HTML**
+- 🔭 Working on **AI Resume Builder and Analyzer**
+- 🌱 Learning **TypeScript**, **CSS**, **HTML**
 - 👯 Looking to collaborate on **AI Resume Builder and Analyzer**, **TrustFlow**
 <!-- END_SECTION:currently -->
 
@@ -34,12 +34,12 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 💬 Commented in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 2m ago
-- 🔀 Opened a PR in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 45m ago
-- 🚀 Pushed to **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 11h ago
-- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 7h ago
-- 🔀 Opened a PR in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 7h ago
-- 💬 Commented in **[Civic Connect](https://github.com/chhavikant03/Civic-Connect)** — 11h ago
+- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 4h ago
+- 🔀 Opened a PR in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 4h ago
+- 🚀 Pushed to **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 22h ago
+- 🔀 Opened a PR in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 6h ago
+- 💬 Commented in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 8h ago
+- 🌿 Created a branch in **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 1d ago
 <!-- END_SECTION:activity -->
 
 ---
@@ -54,9 +54,8 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 <table>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/OpenGit"><b>OpenGit</b></a><br>
-      AI Open-Source Contribution Manager<br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/OpenGit?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/OpenGit?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/OpenGit?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Personal-Portfolio"><b>Personal Portfolio</b></a><br>
@@ -66,8 +65,9 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
     </tr>
     <tr>
     <td align="center">
-      <a href="https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer"><b>AI Resume Builder and Analyzer</b></a><br>
-      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer?style=flat-square&label=Language&color=F8D847"/>
+      <a href="https://github.com/Khushi-agarwal1401/OpenGit"><b>OpenGit</b></a><br>
+      AI Open-Source Contribution Manager<br>
+      <img src="https://img.shields.io/github/stars/Khushi-agarwal1401/OpenGit?style=flat-square&label=Stars&color=E75480"/><img src="https://img.shields.io/github/forks/Khushi-agarwal1401/OpenGit?style=flat-square&label=Forks&color=BF91FF"/><img src="https://img.shields.io/github/languages/top/Khushi-agarwal1401/OpenGit?style=flat-square&label=Language&color=F8D847"/>
     </td>
     <td align="center">
       <a href="https://github.com/Khushi-agarwal1401/Grocery_App"><b>Grocery App</b></a><br>
@@ -96,8 +96,8 @@ Here are some of the projects I've built, with live stats. Feel free to explore,
 
 <!-- START_SECTION:stars -->
 1. ⭐ **[Personal Portfolio](https://github.com/Khushi-agarwal1401/Personal-Portfolio)** — 1 ⭐ · CSS
-2. ⭐ **[OpenGit](https://github.com/Khushi-agarwal1401/OpenGit)**
-3. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
+2. ⭐ **[AI Resume Builder and Analyzer](https://github.com/Khushi-agarwal1401/AI-Resume-Builder-and-Analyzer)** · TypeScript
+3. ⭐ **[OpenGit](https://github.com/Khushi-agarwal1401/OpenGit)**
 4. ⭐ **[Grocery App](https://github.com/Khushi-agarwal1401/Grocery_App)** · HTML
 5. ⭐ **[TrustFlow](https://github.com/Khushi-agarwal1401/TrustFlow)** · TypeScript
 <!-- END_SECTION:stars -->
