@@ -34,11 +34,11 @@ I'm passionate about building modern web applications, solving challenging probl
 # Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
-- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 4h ago
-- 🔀 Opened a PR in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 4h ago
-- 🚀 Pushed to **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 22h ago
-- 🔀 Opened a PR in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 6h ago
-- 💬 Commented in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 8h ago
+- 💬 Commented in **[PetSathi](https://github.com/Riya-Kharade/PetSathi)** — 1h ago
+- 🔀 Opened a PR in **[Civic Help Setu](https://github.com/GoldRay19/Civic-Help-Setu)** — 3h ago
+- 💬 Commented in **[CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE)** — 5h ago
+- 🚀 Pushed to **[PetSathi](https://github.com/Khushi-agarwal1401/PetSathi)** — 1d ago
+- 🚀 Pushed to **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 1d ago
 - 🌿 Created a branch in **[Civic Help Setu](https://github.com/Khushi-agarwal1401/Civic-Help-Setu)** — 1d ago
 <!-- END_SECTION:activity -->
 
